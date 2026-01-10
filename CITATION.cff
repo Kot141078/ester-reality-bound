@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Reality-Bound AI (L4) — Notes, Protocol, and Posts"
+message: "If you use these materials, please cite this repository."
+type: software
+authors:
+  - name: "Ivan"
+version: 1.2.0
+date-released: 2026-01-01
