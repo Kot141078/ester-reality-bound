@@ -1,5 +1,5 @@
 # Generate this file during release. Do not hand-edit.
-# Format: <sha256>??<relative/path>
+# Format: <sha256><two spaces><relative/path>
 
 d35a6621f3f35400d51f85d67de0226abb4359043585e4e80d36cb64dfb52af1  assets/README.md
 a3de2519fd116a6d1b62d6a2ff45b2896b8cba66c64629d5a668ddc1c6359806  CHANGELOG.md
