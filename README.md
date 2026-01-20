@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1131456026.svg)](https://doi.org/10.5281/zenodo.18311218)
+
 # Reality-Bound AI (L4) — Notes, Protocol, and Posts
 
 This repository contains the public-facing materials for a reality-bound approach to AI safety and AI entities.
