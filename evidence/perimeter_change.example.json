@@ -1,0 +1,53 @@
+{
+  "schema": "l4.perimeter.change.v0.1",
+  "change_id": "CHG-EXAMPLE-0001",
+  "timestamp_utc": "2026-01-29T00:10:00Z",
+  "actor": {
+    "name": "REDACTED",
+    "role": "owner"
+  },
+  "links": {
+    "prev_snapshot_hash": "TO_BE_FILLED",
+    "new_snapshot_hash": "TO_BE_FILLED"
+  },
+  "change": {
+    "type": "radio_hardening",
+    "summary": "Disable Bluetooth in UEFI/BIOS",
+    "rationale": "Reduce proximity surface",
+    "risk": {
+      "risk_before": "medium",
+      "risk_after": "low",
+      "notes": "OS-level disable alone is insufficient"
+    },
+    "implementation": {
+      "steps": [
+        "Enter UEFI/BIOS",
+        "Disable Bluetooth controller",
+        "Save and reboot",
+        "Verify: OS no longer detects BT device"
+      ],
+      "tests": [
+        { "name": "os_check", "pass": true, "notes": "rfkill shows blocked; no BT adapter" }
+      ],
+      "rollback": {
+        "possible": true,
+        "steps": [
+          "Re-enable BT in UEFI/BIOS",
+          "Reboot",
+          "Verify OS sees adapter"
+        ]
+      }
+    },
+    "approvals": {
+      "requires_second_person": false,
+      "approved_by": null
+    }
+  },
+  "audit": {
+    "evidence_refs": [
+      "room_checklist.md line-items updated",
+      "photo: bios_screen_redacted"
+    ],
+    "notes": "Any perimeter change must be logged; no silent drift."
+  }
+}
