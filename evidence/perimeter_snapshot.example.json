@@ -1,0 +1,86 @@
+{
+  "schema": "l4.perimeter.snapshot.v0.1",
+  "created_utc": "2026-01-29T00:00:00Z",
+  "operator": {
+    "name": "REDACTED",
+    "role": "owner",
+    "contact": "REDACTED"
+  },
+  "location_coarse": "BE / Brussels (coarse)",
+  "node": {
+    "node_id": "NODE-EXAMPLE-001",
+    "purpose": "local entity compute / analysis",
+    "hardware": {
+      "motherboard": "REDACTED",
+      "cpu": "REDACTED",
+      "ram_gb": 128,
+      "gpus": [
+        { "model": "REDACTED", "vram_gb": 16, "slot": 1 },
+        { "model": "REDACTED", "vram_gb": 16, "slot": 2 }
+      ],
+      "storage": [
+        { "type": "nvme", "size_gb": 2000, "encrypt": true }
+      ]
+    },
+    "os": {
+      "family": "linux",
+      "version": "REDACTED",
+      "kernel": "REDACTED",
+      "secure_boot": "unknown"
+    }
+  },
+  "perimeter": {
+    "physical_access": {
+      "dedicated_room": true,
+      "tamper_notes": "case closed; ports limited",
+      "unattended_policy": "no-privileged-actions-when-unattended"
+    },
+    "radio": {
+      "wifi": "disabled",
+      "bluetooth": "disabled",
+      "uefi_radio": "disabled",
+      "ethernet_only": true,
+      "notes": "no proximity devices allowed during ops"
+    },
+    "ports": {
+      "usb_policy": "controlled_window",
+      "autorun_disabled": true,
+      "notes": "allowlist flash drives only"
+    },
+    "power": {
+      "chain_doc": "power_chain_diagram.md",
+      "ups_mode": "double-conversion",
+      "surge_protection": true,
+      "filtering": true,
+      "notes": "no shared noisy loads"
+    },
+    "thermal_acoustic": {
+      "cooling_profile": "controlled",
+      "acoustic_notes": "coil_whine: low; fans: stable",
+      "placement_notes": "damped surface; distance from door"
+    },
+    "privileges": {
+      "human_gate_for_privileged_actions": true,
+      "rate_limits_enabled": true,
+      "challenge_window_enabled": true,
+      "rollback_required_for_perimeter_changes": true
+    },
+    "evidence": {
+      "hashes": {
+        "sha256": [
+          { "path": "evidence/room_checklist.md", "hash": "TO_BE_FILLED" },
+          { "path": "evidence/power_chain_diagram.md", "hash": "TO_BE_FILLED" }
+        ]
+      },
+      "attachments": [
+        { "type": "photo", "ref": "REDACTED_OR_LOCAL_PATH" },
+        { "type": "log", "ref": "REDACTED_OR_LOCAL_PATH" }
+      ]
+    }
+  },
+  "signing": {
+    "method": "none",
+    "signature": null,
+    "notes": "optional: sign snapshot hash with local key"
+  }
+}
