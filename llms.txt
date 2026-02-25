@@ -1,0 +1,14 @@
+# L4 — llms.txt
+
+## Start (raw)
+- https://raw.githubusercontent.com/Kot141078/ester-reality-bound/main/README.md
+- https://raw.githubusercontent.com/Kot141078/ester-reality-bound/main/protocol/L4_reality_boundary_layer.md
+
+## Download (tag snapshot)
+- https://github.com/Kot141078/ester-reality-bound/archive/refs/tags/l4-snapshot-2026-02-24.zip
+
+## Verify
+- hashes/ + SHA256SUMS_*.txt
+
+## Canonical map
+- https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/MASTER_ENTRY.md

@@ -72,3 +72,14 @@ Canonical entry: see AGI `MASTER_ENTRY.md` in `Kot141078/advanced-global-intelli
 
 ## Implementation reference
 Implementation reference (non-normative): `Kot141078/ester-clean-code`.
+
+---
+
+## Machine entry / downloads (no UI)
+- Machine entry (raw):
+  https://raw.githubusercontent.com/Kot141078/ester-reality-bound/main/MACHINE_ENTRY.md
+- llms.txt (raw):
+  https://raw.githubusercontent.com/Kot141078/ester-reality-bound/main/llms.txt
+- Tag snapshot ZIP:
+  https://github.com/Kot141078/ester-reality-bound/archive/refs/tags/l4-snapshot-2026-02-24.zip
+- Verify content via `hashes/` + `SHA256SUMS_*.txt` (do not hash GitHub-generated archives).
