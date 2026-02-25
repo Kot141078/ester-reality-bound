@@ -62,3 +62,13 @@ Get-ChildItem .\hashes\SHA256SUMS_*.txt | ForEach-Object { "`n== $($_.Name) ==";
 Get-ChildItem .\pdf\*.pdf -ErrorAction SilentlyContinue | ForEach-Object {
   (Get-FileHash $_.FullName -Algorithm SHA256).Hash.ToLower() + "  " + $_.FullName.Replace((Get-Location).Path + "\", "").Replace("\","/")
 }
+```
+
+## Naming note
+AGI = Advanced Global Intelligence (not Artificial General Intelligence).
+
+## Canonical entry
+Canonical entry: see AGI `MASTER_ENTRY.md` in `Kot141078/advanced-global-intelligence`.
+
+## Implementation reference
+Implementation reference (non-normative): `Kot141078/ester-clean-code`.

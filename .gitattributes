@@ -1,0 +1,6 @@
+*.md text eol=lf
+hashes/*.txt text eol=lf
+*.pdf binary
+*.docx binary
+*.json text eol=lf
+evidence/pdf/* binary
