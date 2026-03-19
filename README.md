@@ -4,6 +4,13 @@
 
 Public-facing materials for a reality-bound approach to AI safety and long-lived AI entities.
 
+## Process Premise
+
+> “The future is not an event. It is a process.”
+> — Ivan Kotov
+
+Canonical note: see `Kot141078/advanced-global-intelligence` → `official/AUTHORIAL_PREMISES.md`
+
 ## Core distinctions
 - **Tools** are stateless and transactional.
 - **Entities (c = a + b)** are persistent, contextual, memory-based.
