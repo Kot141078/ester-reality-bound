@@ -27,6 +27,7 @@ Canonical note: see `Kot141078/advanced-global-intelligence` → `official/AUTHO
 - `hashes/` — integrity manifests and hashing instructions.
 
 ## Entity / agent hierarchy
+
 - By default, `c` orchestrates agents; agents do not define `c`.
 - Agents are bounded execution surfaces under `c`.
 - Canonical note: `docs/ENTITY_GOVERNS_AGENTS.md`
