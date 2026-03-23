@@ -14,15 +14,22 @@ Canonical note: see `Kot141078/advanced-global-intelligence` → `official/AUTHO
 ## Core distinctions
 - **Tools** are stateless and transactional.
 - **Entities (c = a + b)** are persistent, contextual, memory-based.
+- **Agents** are bounded subordinate processes. By default, they are invoked and governed by `c`; they are not the primary subject.
 - Safety is not only **L3 (law / text rules)**.
 - Safety must include **L4 (Reality Boundary Layer)**: physics + operational constraints.
 
 ## Repository map
 - `protocol/` — architectural core (c = a + b, L4, identity, oracle scarcity, failure modes).
 - `docs/` — supporting notes (glossary, constraint stack, metaphors, responsibility, minimal presence).
+- `docs/ENTITY_GOVERNS_AGENTS.md` — explicit entity / agent hierarchy note.
 - `posts/` — ready-to-publish posts (Markdown).
 - `pdf/` — exported artifacts (layout-fixed copies of selected Markdown).
 - `hashes/` — integrity manifests and hashing instructions.
+
+## Entity / agent hierarchy
+- By default, `c` orchestrates agents; agents do not define `c`.
+- Agents are bounded execution surfaces under `c`.
+- Canonical note: `docs/ENTITY_GOVERNS_AGENTS.md`
 
 ## Status model
 Most files carry a header with **Status / Version**. Use it literally:

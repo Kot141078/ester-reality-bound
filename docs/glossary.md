@@ -3,6 +3,9 @@
 ## Tool
 Stateless, transactional. No persistent memory. No identity continuity.
 
+## Agent
+Subordinate process or worker invoked under `c`. May use tools, models, or external services. Does not hold primary continuity or define the entity. Identity continuity remains with `c`, not with the agent.
+
 ## Entity (c)
 Persistent, contextual, memory-based. Defined by:
 - **c = a + b**
