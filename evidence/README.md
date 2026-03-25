@@ -32,3 +32,10 @@ Hidden bridge #2 (Cover and Thomas):
 
 Perimeter evidence works like engineering maintenance logs:
 Without dated snapshots and hashes, failures become stories instead of procedures.
+
+## ARQ Reference (External Canonical)
+
+- Canonical entry: `..\sovereign-entity-recursion\protocol\arq\README.md`
+- Explicit bridge: correction logic -> SER continuity -> L4 bounded accountability
+- Hidden bridges: witness-backed promotion for any retained deviation; bounded homeostasis rather than infinite retry
+- Grounding: finite power, cooling, storage endurance, privilege, controller trust, and calibration trust window constrain whether any promoted event remains valid

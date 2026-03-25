@@ -24,3 +24,14 @@
   https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/REPO_INDEX.json
 - Repo index (human, raw):
   https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/REPO_INDEX.md
+
+## Additive subsystems
+- ARQ subsystem:
+  - canonical_repo: `..\sovereign-entity-recursion`
+  - entry: `..\sovereign-entity-recursion\protocol\arq\README.md`
+  - role: additive
+  - bridge: correction_logic -> SER_continuity -> L4_bounded_accountability
+  - witness_required_for_promotion: true
+  - bounded_homeostasis: true
+  - duplication_in_this_repo: false
+  - grounding: finite_power_cooling_storage_endurance_privilege_controller_trust_calibration_window

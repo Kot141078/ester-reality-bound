@@ -88,6 +88,21 @@ Canonical entry: see AGI `MASTER_ENTRY.md` in `Kot141078/advanced-global-intelli
 ## Implementation reference
 Implementation reference (non-normative): `Kot141078/ester-clean-code`.
 
+## ARQ bridge (canonical in SER)
+
+ARQ (**Anti-Resonance Correction Protocol**) is an additive subsystem in the wider stack, but its canonical home is **not** this repository.
+
+Canonical entry:
+`..\sovereign-entity-recursion\protocol\arq\README.md`
+
+From the L4 point of view, ARQ matters because it creates an explicit bridge between correction logic, **SER** continuity, and **L4** bounded accountability.
+
+It also carries two quieter operational consequences:
+promotion requires witness-backed traceability, and adaptive handling must remain bounded rather than degrade into infinite retry behavior.
+
+Grounding note:
+on real hardware, no classification or retention path is free — there is finite power, finite cooling, finite storage endurance, finite controller trust, finite privilege, and a finite trusted calibration window.
+
 ---
 
 ## Machine entry / downloads (no UI)
