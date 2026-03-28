@@ -119,6 +119,22 @@ Boundary:
 - no duplicate package home in this repo
 - no claim that EA-L4 / EATP replaces L4 notes here
 
+## DEA (canonical in AGI)
+
+DEA is an adjacent upstream layer that defines when input becomes auditable experience under bounded reality, but its canonical home is **not** this repository.
+
+Canonical entry:
+`..\advanced-global-intelligence\protocols\dea\README.md`
+
+Role from the L4 side:
+- input-to-experience boundary under real constraints
+- upstream from EA-L4 / EATP and downstream witness/evidence handling
+- adjacent to SER and L4 rather than a replacement for either
+
+Boundary:
+- no duplicate package home in this repo
+- no claim that DEA replaces L4 notes here
+
 ---
 
 ## Machine entry / downloads (no UI)

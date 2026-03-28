@@ -41,3 +41,12 @@
   - role: l4_bound_training_provenance_consequence_layer
   - duplication_in_this_repo: false
   - replaces_l4_repo: false
+- DEA package:
+  - canonical_repo: `..\advanced-global-intelligence`
+  - entry: `..\advanced-global-intelligence\protocols\dea\README.md`
+  - normative: `..\advanced-global-intelligence\protocols\dea\normative\DEA_v1_0.md`
+  - addendum: `..\advanced-global-intelligence\protocols\dea\normative\DEA_Normative_Addendum_v1_1.md`
+  - role: adjacent_upstream_input_to_experience_layer
+  - upstream_of: `..\advanced-global-intelligence\protocols\ea-l4-eatp\README.md`
+  - duplication_in_this_repo: false
+  - replaces_l4_repo: false
