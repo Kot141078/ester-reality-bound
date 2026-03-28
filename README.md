@@ -103,6 +103,22 @@ promotion requires witness-backed traceability, and adaptive handling must remai
 Grounding note:
 on real hardware, no classification or retention path is free — there is finite power, finite cooling, finite storage endurance, finite controller trust, finite privilege, and a finite trusted calibration window.
 
+## EA-L4 / EATP (canonical in AGI)
+
+EA-L4 / EATP is an adjacent L4-bound training, provenance, and consequence layer, but its canonical home is **not** this repository.
+
+Canonical entry:
+`..\advanced-global-intelligence\protocols\ea-l4-eatp\README.md`
+
+Role from the L4 side:
+- training-origin discipline under real constraints
+- consequence-preserving public package layer
+- adjacent to SER and L4 rather than a replacement for either
+
+Boundary:
+- no duplicate package home in this repo
+- no claim that EA-L4 / EATP replaces L4 notes here
+
 ---
 
 ## Machine entry / downloads (no UI)

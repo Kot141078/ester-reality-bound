@@ -35,3 +35,9 @@
   - bounded_homeostasis: true
   - duplication_in_this_repo: false
   - grounding: finite_power_cooling_storage_endurance_privilege_controller_trust_calibration_window
+- EA-L4 / EATP package:
+  - canonical_repo: `..\advanced-global-intelligence`
+  - entry: `..\advanced-global-intelligence\protocols\ea-l4-eatp\README.md`
+  - role: l4_bound_training_provenance_consequence_layer
+  - duplication_in_this_repo: false
+  - replaces_l4_repo: false
