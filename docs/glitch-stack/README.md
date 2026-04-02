@@ -47,3 +47,8 @@ The **implementation / code-bridge** side lives in:
 
 - `ester-clean-code`
 - `docs/architecture/glitch-stack/`
+
+## Published Zenodo records
+
+- Core Specification v0.1 — version DOI: [10.5281/zenodo.19385784](https://doi.org/10.5281/zenodo.19385784), all versions: [10.5281/zenodo.19385783](https://doi.org/10.5281/zenodo.19385783)
+- Graph Grammar and Visibility Layer v0.1 — version DOI: [10.5281/zenodo.19385908](https://doi.org/10.5281/zenodo.19385908), all versions: [10.5281/zenodo.19385907](https://doi.org/10.5281/zenodo.19385907)

@@ -53,3 +53,8 @@ The code-facing landing zone is intentionally separate and lives in:
 
 - `ester-clean-code`
 - `docs/architecture/glitch-stack/`
+
+## Zenodo citations
+
+- Core Specification v0.1 — version DOI: `10.5281/zenodo.19385784` ; all versions: `10.5281/zenodo.19385783`
+- Graph Grammar and Visibility Layer v0.1 — version DOI: `10.5281/zenodo.19385908` ; all versions: `10.5281/zenodo.19385907`

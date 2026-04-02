@@ -174,3 +174,8 @@ For the published ecosystem-wide theoretical synthesis record, see:
 
 - Version DOI: [10.5281/zenodo.19384668](https://doi.org/10.5281/zenodo.19384668)
 - All versions DOI: [10.5281/zenodo.19384667](https://doi.org/10.5281/zenodo.19384667)
+
+### Published Zenodo records for the glitch-stack normative / visibility side
+
+- Core Specification v0.1 — version DOI: [10.5281/zenodo.19385784](https://doi.org/10.5281/zenodo.19385784), all versions: [10.5281/zenodo.19385783](https://doi.org/10.5281/zenodo.19385783)
+- Graph Grammar and Visibility Layer v0.1 — version DOI: [10.5281/zenodo.19385908](https://doi.org/10.5281/zenodo.19385908), all versions: [10.5281/zenodo.19385907](https://doi.org/10.5281/zenodo.19385907)
