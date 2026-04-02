@@ -145,3 +145,11 @@ Boundary:
 - Tag snapshot ZIP:
   https://github.com/Kot141078/ester-reality-bound/archive/refs/tags/l4-snapshot-2026-02-24.zip
 - Verify content via `hashes/` + `SHA256SUMS_*.txt` (do not hash GitHub-generated archives).
+
+## Ecosystem-wide theoretical synthesis
+
+For an ecosystem-wide theoretical synthesis, see:
+
+- `Kot141078/advanced-global-intelligence` -> `manifesto/Theoretical_Foundations_of_the_AGI_Ecosystem_EN.md`
+
+This repository remains the public L4 / reality-bound layer rather than the home of the ecosystem-wide synthesis.
