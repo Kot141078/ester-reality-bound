@@ -159,3 +159,11 @@ Subtrees:
 
 The markdown files remain the canonical working layer.
 The PDF files remain the packaged reader-facing layer.
+
+## Ecosystem-wide theoretical synthesis
+
+For an ecosystem-wide theoretical synthesis, see:
+
+- `Kot141078/advanced-global-intelligence` -> `manifesto/Theoretical_Foundations_of_the_AGI_Ecosystem_EN.md`
+
+This repository remains the public L4 / reality-bound layer rather than the home of the ecosystem-wide synthesis.
