@@ -145,3 +145,17 @@ Boundary:
 - Tag snapshot ZIP:
   https://github.com/Kot141078/ester-reality-bound/archive/refs/tags/l4-snapshot-2026-02-24.zip
 - Verify content via `hashes/` + `SHA256SUMS_*.txt` (do not hash GitHub-generated archives).
+
+## L4 Glitch / Research Quarantine Stack v0.1
+
+This repository now hosts the **normative** and **graph/visibility-facing** side of the glitch-stack package set.
+
+Primary entry:
+- [`docs/glitch-stack/INDEX.md`](docs/glitch-stack/INDEX.md)
+
+Subtrees:
+- [`docs/glitch-stack/core/`](docs/glitch-stack/core/)
+- [`docs/glitch-stack/graph-visibility/`](docs/glitch-stack/graph-visibility/)
+
+The markdown files remain the canonical working layer.
+The PDF files remain the packaged reader-facing layer.
