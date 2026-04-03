@@ -1,8 +1,25 @@
 cff-version: 1.2.0
-title: "Reality-Bound AI (L4) — Notes, Protocol, and Posts"
-message: "If you use these materials, please cite this repository."
+message: "If you use this repository, please cite it as below."
 type: software
+title: "Reality-Bound AI (L4) — Notes, Protocol, and Posts"
 authors:
-  - name: "Ivan"
-version: 1.2.0
-date-released: 2026-01-01
+  - family-names: "Kotov"
+    given-names: "Ivan"
+    orcid: "https://orcid.org/0009-0009-6002-9845"
+url: "https://github.com/Kot141078/ester-reality-bound"
+repository-code: "https://github.com/Kot141078/ester-reality-bound"
+abstract: >-
+  Public-facing repository for the L4 reality-bound layer: notes, protocol
+  materials, and posts that ground AI safety claims in physical constraints,
+  access, time, irreversibility, witness traceability, and freeze discipline.
+  It serves as the L4 operational layer rather than the canonical normative
+  home of the Arbitration / Review Layer.
+keywords:
+  - "reality boundary"
+  - "l4"
+  - "witness traceability"
+  - "freeze discipline"
+  - "operational constraints"
+  - "fail-closed systems"
+license: "MIT"
+doi: "10.5281/zenodo.18311218"
