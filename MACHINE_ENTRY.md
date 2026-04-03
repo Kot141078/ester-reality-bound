@@ -50,3 +50,15 @@
   - upstream_of: `..\advanced-global-intelligence\protocols\ea-l4-eatp\README.md`
   - duplication_in_this_repo: false
   - replaces_l4_repo: false
+- Economic Layer package:
+  - canonical_home: `advanced-global-intelligence`
+  - url: `https://github.com/Kot141078/advanced-global-intelligence/tree/main/docs/economic-layer`
+  - role: external_canonical_package
+  - relation: l4_adjacent_scarcity_scar_irreversibility_bounded_disclosure_restraint_anti_gaming
+  - local_status: pointer_only_not_duplicated_here
+- Pre-Lineage Boundary Note:
+  - canonical_home: `advanced-global-intelligence`
+  - url: `https://github.com/Kot141078/advanced-global-intelligence/blob/main/manifesto/Pre_Lineage_Boundary_Note_v0.1.md`
+  - role: external_boundary_note
+  - relation: reserved_cross_stack_boundary_not_operational_protocol
+  - local_status: pointer_only_not_duplicated_here

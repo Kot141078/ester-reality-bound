@@ -135,6 +135,22 @@ Boundary:
 - no duplicate package home in this repo
 - no claim that DEA replaces L4 notes here
 
+## Economic Layer and Pre-Lineage (canonical in AGI)
+
+Economic Layer for Experience Artifacts is an adjacent ecosystem material with its canonical home in AGI. From the L4 side it connects through scarcity, scar, irreversibility, bounded disclosure, restraint, and anti-gaming handling rather than through a duplicate local package.
+
+Canonical external package:
+- https://github.com/Kot141078/advanced-global-intelligence/tree/main/docs/economic-layer
+
+Pre-Lineage Boundary Note is a reserved cross-stack boundary note, not an ERB operational protocol.
+
+Canonical external note:
+- https://github.com/Kot141078/advanced-global-intelligence/blob/main/manifesto/Pre_Lineage_Boundary_Note_v0.1.md
+
+Boundary:
+- pointer only in this repo
+- no duplicate package home in ERB
+
 ---
 
 ## Machine entry / downloads (no UI)
