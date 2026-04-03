@@ -179,3 +179,11 @@ For the published ecosystem-wide theoretical synthesis record, see:
 
 - Core Specification v0.1 — version DOI: [10.5281/zenodo.19385784](https://doi.org/10.5281/zenodo.19385784), all versions: [10.5281/zenodo.19385783](https://doi.org/10.5281/zenodo.19385783)
 - Graph Grammar and Visibility Layer v0.1 — version DOI: [10.5281/zenodo.19385908](https://doi.org/10.5281/zenodo.19385908), all versions: [10.5281/zenodo.19385907](https://doi.org/10.5281/zenodo.19385907)
+
+### Arbitration / Review Layer (ARL) v0.1
+
+ARL v0.1 is the procedural bridge between dispute and operational containment: freeze, hold, quarantine, witness binding, and lawful re-entry discipline.
+
+Canonical home: `sovereign-entity-recursion` ARL package
+
+The Reality Boundary layer already formalizes collision, scarcity, freeze pressure, and witness-backed traceability. ARL v0.1 extends this operational discipline into the dispute domain: when standing exists and admissible conflict is recognized, the system does not improvise. It freezes, classifies, reviews, and determines whether a disputed branch may lawfully re-enter flow.
