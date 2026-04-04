@@ -7,6 +7,7 @@
   https://raw.githubusercontent.com/Kot141078/ester-reality-bound/main/protocol/L4_reality_boundary_layer.md
 
 ## Downloads
+- Release page (verified): https://github.com/Kot141078/ester-reality-bound/releases/tag/l4-snapshot-2026-02-24
 - Tag snapshot (l4-snapshot-2026-02-24)
   - ZIP: https://github.com/Kot141078/ester-reality-bound/archive/refs/tags/l4-snapshot-2026-02-24.zip
   - TAR: https://github.com/Kot141078/ester-reality-bound/archive/refs/tags/l4-snapshot-2026-02-24.tar.gz

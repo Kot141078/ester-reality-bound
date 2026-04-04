@@ -1,14 +1,17 @@
 # L4 — llms.txt
 
 ## Start (raw)
-- https://raw.githubusercontent.com/Kot141078/ester-reality-bound/main/README.md
-- https://raw.githubusercontent.com/Kot141078/ester-reality-bound/main/protocol/L4_reality_boundary_layer.md
+- README (raw): https://raw.githubusercontent.com/Kot141078/ester-reality-bound/main/README.md
+- MACHINE_ENTRY.md (raw): https://raw.githubusercontent.com/Kot141078/ester-reality-bound/main/MACHINE_ENTRY.md
+- L4 reality boundary (raw): https://raw.githubusercontent.com/Kot141078/ester-reality-bound/main/protocol/L4_reality_boundary_layer.md
 
-## Download (tag snapshot)
-- https://github.com/Kot141078/ester-reality-bound/archive/refs/tags/l4-snapshot-2026-02-24.zip
+## Download / Release
+- Release page: https://github.com/Kot141078/ester-reality-bound/releases/tag/l4-snapshot-2026-02-24
+- Stable ZIP: https://github.com/Kot141078/ester-reality-bound/archive/refs/tags/l4-snapshot-2026-02-24.zip
+- Stable TAR.GZ: https://github.com/Kot141078/ester-reality-bound/archive/refs/tags/l4-snapshot-2026-02-24.tar.gz
 
 ## Verify
-- hashes/ + SHA256SUMS_*.txt
+- hashes/ + SHA256SUMS_*.txt (do not hash GitHub-generated archives)
 
 ## Repo index
 - https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/REPO_INDEX.json

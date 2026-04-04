@@ -4,6 +4,40 @@
 
 Public-facing materials for a reality-bound approach to AI safety and long-lived AI entities.
 
+## Download / Get the Code
+
+For most visitors, the easiest starting point is the stable snapshot of this repository.
+
+- Release page: https://github.com/Kot141078/ester-reality-bound/releases/tag/l4-snapshot-2026-02-24
+- Stable source ZIP: https://github.com/Kot141078/ester-reality-bound/archive/refs/tags/l4-snapshot-2026-02-24.zip
+- Stable source TAR.GZ: https://github.com/Kot141078/ester-reality-bound/archive/refs/tags/l4-snapshot-2026-02-24.tar.gz
+- GitHub UI: click **Code** -> **Download ZIP**
+
+Clone locally:
+
+```bash
+git clone https://github.com/Kot141078/ester-reality-bound.git
+cd ester-reality-bound
+git checkout l4-snapshot-2026-02-24
+```
+
+Use `hashes/` and local verification materials when applicable. Do not hash GitHub-generated source archives.
+
+## For LLM-assisted reading
+
+Using an LLM to study this repository is normal and encouraged.
+
+If your model has a small context window, start with:
+
+- `README.md`
+- `MACHINE_ENTRY.md`
+- `llms.txt`
+- the stable snapshot of this repository
+
+Then load the key documents in small batches.
+
+This repository is easier to understand when related protocol and notes are read together rather than as isolated fragments.
+
 ## Process Premise
 
 > “The future is not an event. It is a process.”
