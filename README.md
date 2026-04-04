@@ -38,6 +38,12 @@ Then load the key documents in small batches.
 
 This repository is easier to understand when related protocol and notes are read together rather than as isolated fragments.
 
+## Canonical package entry points
+
+- `L4 core / reality-bound layer` — canonical here; operational L4 package. Path: `protocol/L4_reality_boundary_layer.md`
+- `L4 Glitch / Research Quarantine Stack v0.1` — canonical here; glitch-stack normative and graph/visibility layer. Path: `docs/glitch-stack/INDEX.md`
+- `ENTITY_GOVERNS_AGENTS note` — canonical here; entity and agent hierarchy note. Path: `docs/ENTITY_GOVERNS_AGENTS.md`
+
 ## Process Premise
 
 > “The future is not an event. It is a process.”
