@@ -177,6 +177,22 @@ Boundary:
 - no duplicate package home in this repo
 - no claim that DEA replaces L4 notes here
 
+## Continuity Bundle / Cold Wake v0.1 (canonical in AGI)
+
+Continuity Bundle / Cold Wake v0.1 is a cross-layer package with canonical home in AGI rather than in this repository.
+
+Canonical entry:
+`..\advanced-global-intelligence\protocols\continuity-bundle\README.md`
+
+Role from the L4 side:
+- temporal suspension under storage decay, interface drift, dependency rot, and budget limits
+- cold wake must remain fail-closed
+- no blind motor reattachment or open privilege restore
+
+Boundary:
+- companion to SER continuity and L4 wake constraints; not a replacement
+- no duplicate package home in this repo
+
 ## Economic Layer and Pre-Lineage (canonical in AGI)
 
 Economic Layer for Experience Artifacts is an adjacent ecosystem material with its canonical home in AGI. From the L4 side it connects through scarcity, scar, irreversibility, bounded disclosure, restraint, and anti-gaming handling rather than through a duplicate local package.
