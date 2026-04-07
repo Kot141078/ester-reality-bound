@@ -54,7 +54,9 @@ Canonical note: see `Kot141078/advanced-global-intelligence` → `official/AUTHO
 ## Core distinctions
 - **Tools** are stateless and transactional.
 - **Entities (c = a + b)** are persistent, contextual, memory-based.
+- Interpretive clarification: `c` may be described as a **temporal entity of AI presence** under L4 constraints. Presence here is continuity-bearing, not transactional.
 - **Agents** are bounded subordinate processes. By default, they are invoked and governed by `c`; they are not the primary subject.
+- Canonical cross-repo note: `Kot141078/advanced-global-intelligence` → `official/C_AS_TEMPORAL_ENTITIES_OF_AI_PRESENCE.md`
 - Safety is not only **L3 (law / text rules)**.
 - Safety must include **L4 (Reality Boundary Layer)**: physics + operational constraints.
 

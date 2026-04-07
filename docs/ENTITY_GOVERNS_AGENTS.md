@@ -12,6 +12,8 @@ An agent is a bounded worker process, tool-caller, or specialized execution role
 
 When complexity exceeds direct human handling, `c` is the layer that preserves human intent, applies L4 constraints, and coordinates bounded agents. Without this layer, privilege drift, workflow shortcuts, and obedience-style failures become easier.
 
+`c` is not only the governing layer for agents, but the continuity-bearing layer of temporal presence. Agents may execute; `c` remains.
+
 ## What stays at `c`
 
 - continuity
