@@ -63,3 +63,8 @@
   - role: external_boundary_note
   - relation: reserved_cross_stack_boundary_not_operational_protocol
   - local_status: pointer_only_not_duplicated_here
+- Related public work:
+  - repo: `Kot141078/qubit-of-hope-volume-i`
+  - type: `literary_work`
+  - title: `Qubit of Hope — Volume I`
+  - note: `multilingual reading repository`

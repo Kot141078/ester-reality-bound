@@ -261,3 +261,11 @@ ARL v0.1 is the procedural bridge between dispute and operational containment: f
 Canonical home: `sovereign-entity-recursion` ARL package
 
 The Reality Boundary layer already formalizes collision, scarcity, freeze pressure, and witness-backed traceability. ARL v0.1 extends this operational discipline into the dispute domain: when standing exists and admissible conflict is recognized, the system does not improvise. It freezes, classifies, reviews, and determines whether a disputed branch may lawfully re-enter flow.
+
+## Related public work
+
+A separate public repository by the same author preserves the multilingual reading editions of *Qubit of Hope — Volume I*:
+
+- `Kot141078/qubit-of-hope-volume-i`
+
+This is a literary repository and is linked here only as related public work.
