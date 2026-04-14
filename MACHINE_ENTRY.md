@@ -20,6 +20,24 @@ reality-bound operational layer / `L4` feasibility, perimeter, witness-friendly 
 - runtime layer:
   - `https://raw.githubusercontent.com/Kot141078/ester-clean-code/main/MACHINE_ENTRY.md`
 
+## ARQ v0.2 L4-facing route
+
+- canonical repo:
+  - `https://raw.githubusercontent.com/Kot141078/sovereign-entity-recursion/main/MACHINE_ENTRY.md`
+- markdown package root:
+  - `protocol/arq/v0.2/`
+- pdf package root:
+  - `pdf/arq/v0.2/`
+- package manifest:
+  - `hashes/SHA256SUMS_ARQ_Supplement_v0.2.txt`
+- minimal raw first hop:
+  - `https://raw.githubusercontent.com/Kot141078/sovereign-entity-recursion/main/protocol/arq/v0.2/README_ARQ_Supplement_v0.2.md`
+  - `https://raw.githubusercontent.com/Kot141078/sovereign-entity-recursion/main/protocol/arq/v0.2/ARQ_v0.2_Executive_Summary.md`
+  - `https://raw.githubusercontent.com/Kot141078/sovereign-entity-recursion/main/protocol/arq/v0.2/ARQ_Integration_Map_to_SER_L4_Witness_Beacon_VXCX_v0.2.md`
+  - `https://raw.githubusercontent.com/Kot141078/sovereign-entity-recursion/main/protocol/arq/v0.2/ARQ_Failure_Modes_and_Safe_Degradation_v0.2.md`
+- ERB role:
+  - adjacent L4-facing pointer layer only; canonical ARQ payload remains in SER
+
 ## Corpus refs
 
 - `https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/CORPUS_PRIMER.json`

@@ -20,7 +20,7 @@ Corpus pointers:
 Adjacent canonical packages:
 - DEA: https://github.com/Kot141078/advanced-global-intelligence/blob/main/protocols/dea/README.md
 - EA-L4 / EATP: https://github.com/Kot141078/advanced-global-intelligence/blob/main/protocols/ea-l4-eatp/README.md
-- ARQ: https://github.com/Kot141078/sovereign-entity-recursion/blob/main/protocol/arq/README.md
+- ARQ v0.2: https://github.com/Kot141078/sovereign-entity-recursion/blob/main/protocol/arq/v0.2/README_ARQ_Supplement_v0.2.md
 - Economic Layer: https://github.com/Kot141078/advanced-global-intelligence/tree/main/docs/economic-layer
 - Pre-Lineage Boundary Note: https://github.com/Kot141078/advanced-global-intelligence/blob/main/manifesto/Pre_Lineage_Boundary_Note_v0.1.md
 

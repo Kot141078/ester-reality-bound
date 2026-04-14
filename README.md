@@ -160,20 +160,22 @@ Canonical entry: see AGI `MASTER_ENTRY.md` in `Kot141078/advanced-global-intelli
 ## Implementation reference
 Implementation reference (non-normative): `Kot141078/ester-clean-code`.
 
-## ARQ bridge (canonical in SER)
+## ARQ v0.2 bridge (canonical in SER)
 
-ARQ (**Anti-Resonance Correction Protocol**) is an additive subsystem in the wider stack, but its canonical home is **not** this repository.
+ARQ (**Anti-Resonance Correction Protocol**) remains an adjacent protocol layer for ERB readers, but its canonical home is **not** this repository.
 
-Canonical entry:
-`https://github.com/Kot141078/sovereign-entity-recursion/blob/main/protocol/arq/README.md`
+Canonical home:
+- repo: `Kot141078/sovereign-entity-recursion`
+- markdown package: `protocol/arq/v0.2/`
+- pdf package: `pdf/arq/v0.2/`
+- package manifest: `hashes/SHA256SUMS_ARQ_Supplement_v0.2.txt`
+- minimal L4-facing first hop:
+  - `https://github.com/Kot141078/sovereign-entity-recursion/blob/main/protocol/arq/v0.2/README_ARQ_Supplement_v0.2.md`
+  - `https://github.com/Kot141078/sovereign-entity-recursion/blob/main/protocol/arq/v0.2/ARQ_v0.2_Executive_Summary.md`
+  - `https://github.com/Kot141078/sovereign-entity-recursion/blob/main/protocol/arq/v0.2/ARQ_Integration_Map_to_SER_L4_Witness_Beacon_VXCX_v0.2.md`
+  - `https://github.com/Kot141078/sovereign-entity-recursion/blob/main/protocol/arq/v0.2/ARQ_Failure_Modes_and_Safe_Degradation_v0.2.md`
 
-From the L4 point of view, ARQ matters because it creates an explicit bridge between correction logic, **SER** continuity, and **L4** bounded accountability.
-
-It also carries two quieter operational consequences:
-promotion requires witness-backed traceability, and adaptive handling must remain bounded rather than degrade into infinite retry behavior.
-
-Grounding note:
-on real hardware, no classification or retention path is free — there is finite power, finite cooling, finite storage endurance, finite controller trust, finite privilege, and a finite trusted calibration window.
+From the L4 point of view, ARQ matters here as an adjacent layer for bounded degradation, witness-bound memory promotion, and the integration boundary between correction logic, **SER** continuity, and **L4** bounded accountability.
 
 ## EA-L4 / EATP (canonical in AGI)
 
