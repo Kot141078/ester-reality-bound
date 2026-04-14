@@ -1,12 +1,81 @@
 # Machine Entry — ester-reality-bound (L4)
 
-## Start (raw)
-- README (raw):
-  https://raw.githubusercontent.com/Kot141078/ester-reality-bound/main/README.md
-- L4 reality boundary (raw):
-  https://raw.githubusercontent.com/Kot141078/ester-reality-bound/main/protocol/L4_reality_boundary_layer.md
+## Repo role
+
+reality-bound operational layer / `L4` feasibility, perimeter, witness-friendly constraints, and real-world boundary discipline.
+
+## What this repo is not
+
+- not the canonical home of the whole corpus
+- not the AGI framing layer
+- not the SER continuity core
+- not the executable implementation skeleton
+
+## Canonical next hop(s)
+
+- corpus entry:
+  - `https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/CORPUS_PRIMER.json`
+- normative stack:
+  - `https://raw.githubusercontent.com/Kot141078/sovereign-entity-recursion/main/MACHINE_ENTRY.md`
+- runtime layer:
+  - `https://raw.githubusercontent.com/Kot141078/ester-clean-code/main/MACHINE_ENTRY.md`
+
+## Corpus refs
+
+- `https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/CORPUS_PRIMER.json`
+- `https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/STACK_LOCK_2026-04-12.json`
+- `https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/CANONICAL_DISTINCTIONS.md`
+- `https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/OBJECTIONS_AND_REPLIES.md`
+- `https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/CITATION_AND_VERIFICATION.md`
+- `https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/CLAIMS_AND_EVIDENCE_MAP.md`
+- `https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/STATUS_AND_MATURITY_MAP.md`
+- `https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/CURRENT_CORPUS_STATE_AND_READINESS_SNAPSHOT.md`
+- `https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/CONTROL_SURFACE_DEPENDENCY_AND_COUPLING_MAP.md`
+- `https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/CONTROL_LAYER_MINIMALITY_AND_DEDUPLICATION_POLICY.md`
+- `https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/CURRENT_LOCAL_CONTROL_STACK_STAGING_MAP.md`
+- `https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/LOCAL_PROMOTION_DOCKET_AND_BLOCKER_REGISTRY.md`
+- `https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/QUESTION_TO_CONTROL_SURFACE_MAP.md`
+- `https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/CONTROL_STACK_COMPLETENESS_AND_STOP_RULE.md`
+- `https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/AUDIENCE_PROFILES_AND_MINIMAL_READING_PATHS.md`
+- `https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/CHANGE_CONTROL_AND_SYNC.md`
+- `https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/SUPERSESSION_AND_DEPRECATION.md`
+- `https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/TERMINOLOGY_AND_ALIAS_POLICY.md`
+- `https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/ENTRY_ACCEPTANCE_AND_REGRESSION.md`
+- `https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/ASSERTION_STRENGTH_AND_BOUNDARIES.md`
+- `https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/CANONICAL_OWNERSHIP_AND_BOUNDARIES.md`
+- `https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/CROSS_LAYER_INVARIANTS_AND_CONTRADICTION_POLICY.md`
+- `https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/PRECEDENCE_AND_RESOLUTION.md`
+- `https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/ARTIFACT_ID_AND_REFERENCE_POLICY.md`
+- `https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/PUBLIC_SAFE_BOUNDARY_AND_EXCLUSION_POLICY.md`
+- `https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/EXPORT_PROFILES_AND_HANDOFF_BUNDLES.md`
+- `https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/PACKAGE_INTAKE_AND_INTEGRATION.md`
+- `https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/OPEN_QUESTIONS_AND_EXPLICIT_NON_CLAIMS.md`
+- `https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/LOCAL_TO_PUBLIC_PROMOTION_POLICY.md`
+- `https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/ATOMIC_PROMOTION_BUNDLES.md`
+- `https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/PROMOTION_SEQUENCE_AND_RELEASE_TRANCHES.md`
+- `https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/BOOTSTRAP_CUTOVER_AND_PUBLIC_HISTORY_CANDIDATE_SETS.md`
+- `https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/PUBLIC_HISTORY_ANNOTATION_AND_RELEASE_NOTE_POLICY.md`
+- `https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/PUBLIC_CORRECTION_AND_ERRATA_POLICY.md`
+- `https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/MASTER_ENTRY.md`
+
+## Hard invariants
+
+- This repo is the `L4` layer, not the home of the whole corpus.
+- `L4` defines feasibility and bounded operation under real constraints.
+- Witness-friendly operation does not replace continuity.
+- ARQ remains canonical in SER.
+- DEA and EA-L4 / EATP remain canonical in AGI.
+- The implementation skeleton remains separate from this repo.
+
+## First files to read
+
+- `README.md`
+- `protocol/L4_reality_boundary_layer.md`
+- `docs/ENTITY_GOVERNS_AGENTS.md`
+- `MACHINE_ENTRY.md`
 
 ## Downloads
+
 - Release page (verified): https://github.com/Kot141078/ester-reality-bound/releases/tag/l4-snapshot-2026-02-24
 - Tag snapshot (l4-snapshot-2026-02-24)
   - ZIP: https://github.com/Kot141078/ester-reality-bound/archive/refs/tags/l4-snapshot-2026-02-24.zip
@@ -16,55 +85,6 @@
   - TAR: https://github.com/Kot141078/ester-reality-bound/archive/refs/heads/main.tar.gz
 
 ## Verification
-- Verify content using hashes/ and SHA256SUMS_*.txt (do not hash GitHub-generated archives).
 
-## Canonical map
-- Master entry (raw):
-  https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/MASTER_ENTRY.md
-- Repo index (machine, raw):
-  https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/REPO_INDEX.json
-- Repo index (human, raw):
-  https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/REPO_INDEX.md
-
-## Additive subsystems
-- ARQ subsystem:
-  - canonical_repo: `..\sovereign-entity-recursion`
-  - entry: `..\sovereign-entity-recursion\protocol\arq\README.md`
-  - role: additive
-  - bridge: correction_logic -> SER_continuity -> L4_bounded_accountability
-  - witness_required_for_promotion: true
-  - bounded_homeostasis: true
-  - duplication_in_this_repo: false
-  - grounding: finite_power_cooling_storage_endurance_privilege_controller_trust_calibration_window
-- EA-L4 / EATP package:
-  - canonical_repo: `..\advanced-global-intelligence`
-  - entry: `..\advanced-global-intelligence\protocols\ea-l4-eatp\README.md`
-  - role: l4_bound_training_provenance_consequence_layer
-  - duplication_in_this_repo: false
-  - replaces_l4_repo: false
-- DEA package:
-  - canonical_repo: `..\advanced-global-intelligence`
-  - entry: `..\advanced-global-intelligence\protocols\dea\README.md`
-  - normative: `..\advanced-global-intelligence\protocols\dea\normative\DEA_v1_0.md`
-  - addendum: `..\advanced-global-intelligence\protocols\dea\normative\DEA_Normative_Addendum_v1_1.md`
-  - role: adjacent_upstream_input_to_experience_layer
-  - upstream_of: `..\advanced-global-intelligence\protocols\ea-l4-eatp\README.md`
-  - duplication_in_this_repo: false
-  - replaces_l4_repo: false
-- Economic Layer package:
-  - canonical_home: `advanced-global-intelligence`
-  - url: `https://github.com/Kot141078/advanced-global-intelligence/tree/main/docs/economic-layer`
-  - role: external_canonical_package
-  - relation: l4_adjacent_scarcity_scar_irreversibility_bounded_disclosure_restraint_anti_gaming
-  - local_status: pointer_only_not_duplicated_here
-- Pre-Lineage Boundary Note:
-  - canonical_home: `advanced-global-intelligence`
-  - url: `https://github.com/Kot141078/advanced-global-intelligence/blob/main/manifesto/Pre_Lineage_Boundary_Note_v0.1.md`
-  - role: external_boundary_note
-  - relation: reserved_cross_stack_boundary_not_operational_protocol
-  - local_status: pointer_only_not_duplicated_here
-- Related public work:
-  - repo: `Kot141078/qubit-of-hope-volume-i`
-  - type: `literary_work`
-  - title: `Qubit of Hope — Volume I`
-  - note: `multilingual reading repository`
+- Verify content using `hashes/` and `SHA256SUMS_*.txt` rather than GitHub-generated archives.
+- Current main-doc temporal-presence manifest: `hashes/SHA256SUMS_main_temporal_presence_2026-04-12.txt`

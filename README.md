@@ -2,7 +2,37 @@
 
 # Reality-Bound AI (L4) — Notes, Protocol, and Posts
 
+Role:
+reality-bound operational layer / `L4` feasibility, perimeter, witness-friendly constraints, and real-world boundary discipline.
+
 Public-facing materials for a reality-bound approach to AI safety and long-lived AI entities.
+
+## Corpus position
+
+This repo is not the canonical home of the whole corpus.
+It does not replace AGI framing or SER continuity.
+
+Next hop:
+
+- corpus entry: `Kot141078/advanced-global-intelligence` -> `CORPUS_PRIMER.json`
+- anti-confusion surface: `Kot141078/advanced-global-intelligence` -> `CANONICAL_DISTINCTIONS.md`
+- public objections/replies surface: `Kot141078/advanced-global-intelligence` -> `OBJECTIONS_AND_REPLIES.md`
+- citation / verification surface: `Kot141078/advanced-global-intelligence` -> `CITATION_AND_VERIFICATION.md`
+- claims / evidence crosswalk: `Kot141078/advanced-global-intelligence` -> `CLAIMS_AND_EVIDENCE_MAP.md`
+- status / maturity map: `Kot141078/advanced-global-intelligence` -> `STATUS_AND_MATURITY_MAP.md`
+- audience / minimal-reading surface: `Kot141078/advanced-global-intelligence` -> `AUDIENCE_PROFILES_AND_MINIMAL_READING_PATHS.md`
+- corpus sync discipline: `Kot141078/advanced-global-intelligence` -> `CHANGE_CONTROL_AND_SYNC.md`
+- corpus supersession / deprecation discipline: `Kot141078/advanced-global-intelligence` -> `SUPERSESSION_AND_DEPRECATION.md`
+- corpus terminology / alias policy: `Kot141078/advanced-global-intelligence` -> `TERMINOLOGY_AND_ALIAS_POLICY.md`
+- corpus acceptance / regression discipline: `Kot141078/advanced-global-intelligence` -> `ENTRY_ACCEPTANCE_AND_REGRESSION.md`
+- corpus assertion-strength / reading-boundary discipline: `Kot141078/advanced-global-intelligence` -> `ASSERTION_STRENGTH_AND_BOUNDARIES.md`
+- canonical ownership / package-home discipline: `Kot141078/advanced-global-intelligence` -> `CANONICAL_OWNERSHIP_AND_BOUNDARIES.md`
+- cross-layer invariant / contradiction discipline: `Kot141078/advanced-global-intelligence` -> `CROSS_LAYER_INVARIANTS_AND_CONTRADICTION_POLICY.md`
+- corpus precedence / resolution discipline: `Kot141078/advanced-global-intelligence` -> `PRECEDENCE_AND_RESOLUTION.md`
+- stable artifact ID / reference discipline: `Kot141078/advanced-global-intelligence` -> `ARTIFACT_ID_AND_REFERENCE_POLICY.md`
+- package intake / integration discipline: `Kot141078/advanced-global-intelligence` -> `PACKAGE_INTAKE_AND_INTEGRATION.md`
+- normative stack: `Kot141078/sovereign-entity-recursion`
+- runtime layer: `Kot141078/ester-clean-code`
 
 ## Download / Get the Code
 
@@ -113,10 +143,10 @@ See `hashes/HOW_TO_HASH.md`.
 **PowerShell (Windows):**
 ```powershell
 # show manifest(s)
-Get-ChildItem .\hashes\SHA256SUMS_*.txt | ForEach-Object { "`n== $($_.Name) =="; Get-Content $_.FullName }
+Get-ChildItem ./hashes/SHA256SUMS_*.txt | ForEach-Object { "`n== $($_.Name) =="; Get-Content $_.FullName }
 
 # spot-check files (example: all PDFs)
-Get-ChildItem .\pdf\*.pdf -ErrorAction SilentlyContinue | ForEach-Object {
+Get-ChildItem ./pdf/*.pdf -ErrorAction SilentlyContinue | ForEach-Object {
   (Get-FileHash $_.FullName -Algorithm SHA256).Hash.ToLower() + "  " + $_.FullName.Replace((Get-Location).Path + "\", "").Replace("\","/")
 }
 ```
@@ -135,7 +165,7 @@ Implementation reference (non-normative): `Kot141078/ester-clean-code`.
 ARQ (**Anti-Resonance Correction Protocol**) is an additive subsystem in the wider stack, but its canonical home is **not** this repository.
 
 Canonical entry:
-`..\sovereign-entity-recursion\protocol\arq\README.md`
+`https://github.com/Kot141078/sovereign-entity-recursion/blob/main/protocol/arq/README.md`
 
 From the L4 point of view, ARQ matters because it creates an explicit bridge between correction logic, **SER** continuity, and **L4** bounded accountability.
 
@@ -150,7 +180,7 @@ on real hardware, no classification or retention path is free — there is finit
 EA-L4 / EATP is an adjacent L4-bound training, provenance, and consequence layer, but its canonical home is **not** this repository.
 
 Canonical entry:
-`..\advanced-global-intelligence\protocols\ea-l4-eatp\README.md`
+`https://github.com/Kot141078/advanced-global-intelligence/blob/main/protocols/ea-l4-eatp/README.md`
 
 Role from the L4 side:
 - training-origin discipline under real constraints
@@ -166,7 +196,7 @@ Boundary:
 DEA is an adjacent upstream layer that defines when input becomes auditable experience under bounded reality, but its canonical home is **not** this repository.
 
 Canonical entry:
-`..\advanced-global-intelligence\protocols\dea\README.md`
+`https://github.com/Kot141078/advanced-global-intelligence/blob/main/protocols/dea/README.md`
 
 Role from the L4 side:
 - input-to-experience boundary under real constraints
@@ -182,7 +212,7 @@ Boundary:
 Continuity Bundle / Cold Wake v0.1 is a cross-layer package with canonical home in AGI rather than in this repository.
 
 Canonical entry:
-`..\advanced-global-intelligence\protocols\continuity-bundle\README.md`
+`https://github.com/Kot141078/advanced-global-intelligence/blob/main/protocols/continuity-bundle/README.md`
 
 Role from the L4 side:
 - temporal suspension under storage decay, interface drift, dependency rot, and budget limits
