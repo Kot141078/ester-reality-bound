@@ -74,6 +74,12 @@ This repository is easier to understand when related protocol and notes are read
 - `L4 Glitch / Research Quarantine Stack v0.1` — canonical here; glitch-stack normative and graph/visibility layer. Path: `docs/glitch-stack/INDEX.md`
 - `ENTITY_GOVERNS_AGENTS note` — canonical here; entity and agent hierarchy note. Path: `docs/ENTITY_GOVERNS_AGENTS.md`
 
+### Actor Grounding Layer (AGL) v0.1
+
+This repository now includes the canonical AGL v0.1 package: an upstream grounding layer that determines whether a signal, actor, node, or perceptual path is sufficiently grounded in real present execution state before runtime reliance or action progression is allowed.
+
+Start here: `docs/actor-grounding-layer/README.md`
+
 ## Process Premise
 
 > “The future is not an event. It is a process.”

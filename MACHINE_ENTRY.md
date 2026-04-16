@@ -38,6 +38,19 @@ reality-bound operational layer / `L4` feasibility, perimeter, witness-friendly 
 - ERB role:
   - adjacent L4-facing pointer layer only; canonical ARQ payload remains in SER
 
+## Actor Grounding Layer (AGL) v0.1
+
+- canonical repo:
+  - `https://raw.githubusercontent.com/Kot141078/ester-reality-bound/main/MACHINE_ENTRY.md`
+- markdown package root:
+  - `docs/actor-grounding-layer/`
+- pdf package root:
+  - `docs/actor-grounding-layer/pdf/`
+- minimal raw first hop:
+  - `https://raw.githubusercontent.com/Kot141078/ester-reality-bound/main/docs/actor-grounding-layer/README.md`
+- ERB role:
+  - canonical upstream grounding layer in this repo
+
 ## Corpus refs
 
 - `https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/CORPUS_PRIMER.json`

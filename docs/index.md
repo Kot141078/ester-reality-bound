@@ -6,3 +6,4 @@
 - Responsibility and delay: `responsibility.md`
 - Synthetic data / model collapse: `synthetic-data.md`
 - Slow intelligence: `slow-intelligence.md`
+- `docs/actor-grounding-layer/README.md` — AGL v0.1 canonical package for source-state qualification, initiation gates, degradation signals, and runtime grounding before reliance or action.
